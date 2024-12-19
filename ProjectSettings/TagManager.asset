@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemery
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - Player
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1874835847
+    locked: 0
+  - name: Ground
+    uniqueID: 1062184525
+    locked: 0
+  - name: Ladder
+    uniqueID: 2942870681
+    locked: 0
+  - name: Enemery
+    uniqueID: 2491634589
+    locked: 0
+  - name: Item
+    uniqueID: 911752413
+    locked: 0
+  - name: Player
+    uniqueID: 194960099
+    locked: 0
